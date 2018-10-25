@@ -1,6 +1,6 @@
 ### Welcome
 
-Welcome to my little corner of Github, where I keep all the stuff I once took an interested in.
+Welcome to my little corner of Github, where I keep all the stuff I once took an interest in.
 
 ### Quick Referene
 
